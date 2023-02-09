@@ -8,7 +8,7 @@ django application for authentication
 
 3:python manage.py migrate
 
-4:python manage.py runerver
+4:python manage.py runserver
 
 5:username: ha.sheardoost@gmail.com
   password:mona2219
