@@ -2,13 +2,17 @@
 
 django application for authentication
 
-1:git clone https://github.com/Hannaneh-AMIRSHERDOUST/authenticator.git
+1:pip install python
 
-2:cd authenticator/authentication
+2:pip install django
 
-3:python manage.py migrate
+3:git clone https://github.com/Hannaneh-AMIRSHERDOUST/authenticator.git
 
-4:python manage.py runserver
+4:cd authenticator/authentication
 
-5:username: ha.sheardoost@gmail.com
+5:python manage.py migrate
+
+6:python manage.py runserver
+
+7:username: ha.sheardoost@gmail.com
   password:mona2219
